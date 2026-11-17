@@ -1,2 +1,3 @@
-# bontot
-BONTOT MOTOR — on-call motorcycle repair service for 2 &amp; 3-wheel (Viar) in East Jakarta. Mechanic comes to you, transparent pricing, workmanship warranty. Open daily 06:00–22:00 WIB. Single-file landing page (vanilla HTML/CSS/JS).
+BONTOT MOTOR is an on-call motorcycle repair service (UMKM) based in East Jakarta, Indonesia. Our certified mechanics come directly to your location — home, office, or roadside — so you never have to push your bike or wait in line. Services include routine maintenance & oil change, fuel-injection service, CVT (matic) service, electrical & battery repair, injection error-code scanning, engine overhaul, and spare-parts replacement. We serve all 2-wheel and 3-wheel (Viar) motorcycles. Every job is quoted upfront, backed by a workmanship warranty, and can be booked instantly via WhatsApp. Open daily 06:00–22:00 WIB.
+ 
+This repository contains the single-file landing page ( index.html , vanilla HTML/CSS/JS, no build step) with embedded brand logo and gallery photos.
