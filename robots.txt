@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://bontotracing.my.id/sitemap.xml
