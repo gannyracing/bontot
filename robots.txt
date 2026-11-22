@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://gannyracing.github.io/bontot/sitemap.xml
+Sitemap: https://bontot-racing.netlify.app/sitemap.xml
